@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Семенов Андрей</a> 
+<h1 align="center">Привет, меня зовут Семенов Андрей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">DATA Engineer</h3>
