@@ -1,9 +1,8 @@
-## Hi there 👋
-
-
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.gifdb.com/coding-skills-loading-dk68v8z0hevjpuiv.gif](https://media.gifdb.com/coding-skills-loading-dk68v8z0hevjpuiv.gif)](https://media.gifdb.com/coding-skills-loading-dk68v8z0hevjpuiv.gif)" width="100"/>
+  <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp" width="250"/>
 </div>
+
+## Привет, Я Семенов Андрей и вот что я умею 👋
 
 <!--
 **Prostoludin/Prostoludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
