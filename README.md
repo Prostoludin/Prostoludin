@@ -1,6 +1,3 @@
-<div id="header" align="center" class="circular-image">
-  <img src="https://avatars.githubusercontent.com/u/103101119?v=4" alt="Profile Picture">
-</div>
 <h1 align="center">Привет, я Семенов Андрей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
