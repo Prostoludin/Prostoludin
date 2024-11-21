@@ -3,7 +3,7 @@
 
 <h3 align="center">DATA Engineer</h3>
 
-### И вот, что я умею
+### Вот что я умею
 ### :hammer_and_wrench: Языки и Инструменты:
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&color=42aaff&logo=postgresql&logoColor=white)
