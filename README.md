@@ -22,7 +22,9 @@
 
 
 
-### Диплом Практикум
+### Дипломы Практикум
+- [Data Engineer](https://github.com/Stepashkin63/Stepashkin63/blob/main/img/Diplom%20Netology.jpg)
+- 
 
 <div id="header" align="center">
   <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp" width="250"/>
