@@ -16,11 +16,9 @@
 
 
 
-### Java:
+### Примеры реализованных задач:
 - [Организация DWH](https://github.com/Stepashkin63/Converter)
 - [Потоковая обработка данных](https://github.com/Stepashkin63/Netology-diplom)
-
-
 
 ### Дипломы Практикум
 - [Data Engineer](https://github.com/Prostoludin/Prostoludin/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2_2024-5554-010.pdf)
