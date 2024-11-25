@@ -17,7 +17,8 @@
 
 
 ### Примеры реализованных задач:
-- [Организация DWH](https://github.com/Stepashkin63/Converter)
+- [Организация DWH для нескольких источников](https://github.com/Stepashkin63/Converter)
+- Пример проекта(https://github.com/Stepashkin63/Converter)
 - [Потоковая обработка данных](https://github.com/Stepashkin63/Netology-diplom)
 
 ### Дипломы Практикум
